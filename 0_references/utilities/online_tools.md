@@ -53,3 +53,9 @@ https://www.freeconvert.com/convert/video-to-mp3
 ```
 https://miro.com/
 ```
+
+>## Microsoft Activator
+
+```
+https://github.com/massgravel/Microsoft-Activation-Scripts
+```
