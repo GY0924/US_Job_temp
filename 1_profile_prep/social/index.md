@@ -19,3 +19,10 @@
 ## LinkedIn Profile
 
 *Change public URL of the profile*
+
+
+## GitHub Profile
+
+* Download appropriate github repositories from online.
+* Update commit information.
+* Upload fake github repositories to one's github profile.
