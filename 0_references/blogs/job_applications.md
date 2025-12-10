@@ -1,5 +1,11 @@
 # Job Application Strategy
 
+> ## Resume Strategy
+
+```
+https://www.linkedin.com/in/charlotte-resume-writer/
+```
+
 > ## Job applications strategy month by month
 
 ```
